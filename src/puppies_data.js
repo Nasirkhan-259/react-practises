@@ -21,6 +21,7 @@ const Puppies =
         price : 'RS-900',
         location : 'Island'
     },
+    
 
 ]
 export default Puppies;
